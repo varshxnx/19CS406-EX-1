@@ -61,7 +61,15 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 OUTPUT:
-![STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL](https://github.com/varshxnx/19CS406-EX-1/assets/122253525/b0e726ff-0d0b-4be5-9e4a-b8c2c0133ff1)
+
+CLIENT:
+
+![Screenshot (94)](https://github.com/varshxnx/19CS406-EX-1/assets/122253525/dc46049d-fd24-4c73-a64d-2e2d277f2574)
+
+
+SERVER:
+
+![Screenshot (95)](https://github.com/varshxnx/19CS406-EX-1/assets/122253525/030c0aae-fb12-4a4f-ab48-a62cb306f115)
 
 
 RESULT:
