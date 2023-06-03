@@ -49,14 +49,7 @@ while True:
 
 OUTPUT :
 
-CLIENT 
-
-![Screenshot (94)](https://github.com/varshxnx/19CS406-EX-1/assets/122253525/18010703-b3e5-4a5b-b1c5-c05b11d92954)
-
-
-SERVER
-
-![Screenshot (95)](https://github.com/varshxnx/19CS406-EX-1/assets/122253525/e37e89ee-a5ad-48d5-bc9e-f5aecbbc1803)
+![ex1](https://github.com/varshxnx/19CS406-EX-1/assets/122253525/2abfa9e9-277f-4c47-a871-80ee2c821c64)
 
 
 RESULT :
